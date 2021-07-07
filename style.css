@@ -1,0 +1,21 @@
+*{
+    margin: 20px;
+    padding: 0px;
+    
+}
+
+.mb-3{
+    border: 2px solid black;
+    padding: 20px;
+    margin-bottom: 30px;
+    border-radius: 20px;
+    background-color: rgb(187, 179, 179);
+}
+
+.mb-3 > img{
+    height: 100%;
+    width: 92%;
+    border: 1px solid red;
+    display: flex;
+    justify-content: center;
+}
